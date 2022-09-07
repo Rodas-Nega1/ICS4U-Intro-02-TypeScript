@@ -1,1 +1,1 @@
-# ICS4U-Intro-02-TypeScript
+# ics4u-intro02-typescript
